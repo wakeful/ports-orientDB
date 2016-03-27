@@ -1,0 +1,4 @@
+OrientDB is an open source NoSQL database management system written in Java. 
+It is a multi-model database, supporting graph, document, key/value, 
+and object models, but the relationships are managed as in graph databases 
+with direct connections between records.
