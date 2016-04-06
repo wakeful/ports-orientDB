@@ -1,5 +1,5 @@
 # Created by: Adrian Jaskuła <aj@laatu.uk>
-# $FreeBSD:$
+# $FreeBSD$
 
 PORTNAME=	orientdb
 PORTVERSION=	2.1.13
