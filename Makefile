@@ -2,7 +2,7 @@
 # $FreeBSD$
 
 PORTNAME=	orientdb
-PORTVERSION=	2.1.13
+PORTVERSION=	2.2.16
 CATEGORIES=	java databases
 MASTER_SITES=	http://orientdb.com/download.php?file=/
 PKGNAMESUFFIX=	community
@@ -16,7 +16,7 @@ LICENSE=	APACHE20
 USES=	zip
 
 USE_JAVA=	yes
-JAVA_VERSION=	1.7+
+JAVA_VERSION=	1.8+
 
 NO_ARCH=	yes
 NO_BUILD=	yes
