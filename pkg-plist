@@ -1,3 +1,5 @@
+@dir orientdb/config/cert
+@dir orientdb/log
 orientdb/benchmarks/ab.exe
 orientdb/benchmarks/bench_memory_get.bat
 orientdb/benchmarks/bench_memory_get.sh
@@ -157,6 +159,8 @@ orientdb/databases/GratefulDeadConcerts/written_by_7.cpm
 orientdb/databases/GratefulDeadConcerts/written_by_7.pcl
 orientdb/history.txt
 orientdb/lib/activation-1.1.jar
+orientdb/lib/ant-1.8.3.jar
+orientdb/lib/ant-launcher-1.8.3.jar
 orientdb/lib/antlr-2.7.7.jar
 orientdb/lib/asm-3.2.jar
 orientdb/lib/asm-analysis-3.2.jar
@@ -177,8 +181,9 @@ orientdb/lib/gremlin-java-2.6.0.jar
 orientdb/lib/groovy-1.8.9.jar
 orientdb/lib/hazelcast-3.6.5.jar
 orientdb/lib/hazelcast-cloud-3.6.5.jar
-orientdb/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar
+orientdb/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar
 orientdb/lib/hppc-0.6.0.jar
+orientdb/lib/ivy-2.3.0.jar
 orientdb/lib/jackson-annotations-2.6.0.jar
 orientdb/lib/jackson-core-2.6.0.jar
 orientdb/lib/jackson-core-asl-1.9.2.jar
@@ -208,23 +213,24 @@ orientdb/lib/lucene-sandbox-5.3.2.jar
 orientdb/lib/lucene-suggest-5.3.2.jar
 orientdb/lib/mail-1.4.7.jar
 orientdb/lib/metrics-core-3.0.2.jar
-orientdb/lib/orientdb-client-2.2.16.jar
-orientdb/lib/orientdb-core-2.2.16.jar
-orientdb/lib/orientdb-distributed-2.2.16.jar
-orientdb/lib/orientdb-etl-2.2.16.jar
-orientdb/lib/orientdb-graphdb-2.2.16.jar
-orientdb/lib/orientdb-jdbc-2.2.16.jar
-orientdb/lib/orientdb-lucene-2.2.16.jar
-orientdb/lib/orientdb-object-2.2.16.jar
-orientdb/lib/orientdb-server-2.2.16.jar
-orientdb/lib/orientdb-tools-2.2.16.jar
+orientdb/lib/orientdb-client-2.2.20.jar
+orientdb/lib/orientdb-community-2.2.20.jar
+orientdb/lib/orientdb-core-2.2.20.jar
+orientdb/lib/orientdb-distributed-2.2.20.jar
+orientdb/lib/orientdb-etl-2.2.20.jar
+orientdb/lib/orientdb-graphdb-2.2.20.jar
+orientdb/lib/orientdb-jdbc-2.2.20.jar
+orientdb/lib/orientdb-lucene-2.2.20.jar
+orientdb/lib/orientdb-object-2.2.20.jar
+orientdb/lib/orientdb-server-2.2.20.jar
+orientdb/lib/orientdb-tools-2.2.20.jar
 orientdb/lib/pipes-2.6.0.jar
 orientdb/lib/rexster-core-2.6.0.jar
 orientdb/lib/snappy-java-1.1.0.1.jar
 orientdb/lib/stax-api-1.0-2.jar
 orientdb/lib/stax-api-1.0.1.jar
 orientdb/license.txt
-orientdb/plugins/orientdb-studio-2.2.16.zip
+orientdb/plugins/orientdb-studio-2.2.20.zip
 orientdb/plugins/readme.txt
 orientdb/readme.txt
 orientdb/www/clientaccesspolicy.xml
@@ -232,5 +238,3 @@ orientdb/www/crossdomain.xml
 orientdb/www/favicon.ico
 orientdb/www/index.htm
 orientdb/www/robots.txt
-@dir orientdb/config/cert
-@dir orientdb/log
