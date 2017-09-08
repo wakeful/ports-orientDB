@@ -1,4 +1,4 @@
-# Created by: Adrian Jaskuła <aj@laatu.uk>
+# Created by: Adrian Jaskuła <aj@48k.io>
 # $FreeBSD$
 
 PORTNAME=	orientdb
@@ -8,7 +8,7 @@ MASTER_SITES=	http://orientdb.com/download.php?file=/
 PKGNAMESUFFIX=	community
 DISTNAME=	${PORTNAME}-${PKGNAMESUFFIX}-${PORTVERSION}
 
-MAINTAINER=	aj@laatu.uk
+MAINTAINER=	aj@48k.io
 COMMENT=	OrientDB Multi-Model NoSQL Database
 
 LICENSE=	APACHE20
