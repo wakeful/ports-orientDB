@@ -2,7 +2,7 @@
 # $FreeBSD$
 
 PORTNAME=	orientdb
-PORTVERSION=	2.2.20
+PORTVERSION=	2.2.26
 CATEGORIES=	java databases
 MASTER_SITES=	http://orientdb.com/download.php?file=/
 PKGNAMESUFFIX=	community
